@@ -21,8 +21,8 @@
 
 ```bash
 # 方式一：网页版（什么都不用装）
-git clone git@github.com:kk-6788/resume-builder-pro.git
-cd resume-builder-pro
+git clone https://github.com/kk-6788/resume-builder-pro-public.git
+cd resume-builder-pro-public
 # 双击 index.html 即可（Chrome/Edge 最佳）
 ```
 
